@@ -4,11 +4,23 @@ export const Work = [
     {
         id:1,
         name:"Apex Chart",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        description:"homework done in addition to class",
+        tags:["html","css","javascript"],
         
-        github:"https://github.com/SBilguun"
     },
-    
+    {
+        id:2,
+        name:"Calculator",
+        description:"homework done in addition to class",
+        tags:["html","css","javascript"],
+        
+    },
+    {
+        id:3,
+        name:"Rock,Paper,Scissors",
+        description:"homework done in addition to class",
+        tags:["html","css","javascript"],
+        
+    },
   
 ] 
